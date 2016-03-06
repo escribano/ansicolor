@@ -18,7 +18,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/shiena/ansicolor"
+	"github.com/escribano/ansicolor"
 )
 
 func main() {

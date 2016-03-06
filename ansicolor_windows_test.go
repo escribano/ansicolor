@@ -12,8 +12,8 @@ import (
 	"syscall"
 	"testing"
 
-	"github.com/shiena/ansicolor"
-	. "github.com/shiena/ansicolor"
+	"github.com/escribano/ansicolor"
+	. "github.com/escribano/ansicolor"
 )
 
 func TestWritePlanText(t *testing.T) {

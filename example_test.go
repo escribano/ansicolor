@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/shiena/ansicolor"
+	"github.com/escribano/ansicolor"
 )
 
 func ExampleNewAnsiColorWriter() {

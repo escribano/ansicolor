@@ -8,7 +8,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/shiena/ansicolor"
+	"github.com/escribano/ansicolor"
 )
 
 func TestNewAnsiColor1(t *testing.T) {
